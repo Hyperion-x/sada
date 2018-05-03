@@ -1,0 +1,6 @@
+var news = [
+    {name:'News-1', path:'img/news.jpg', description:'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Assumenda doloribus consectetur maxime voluptatum exercitationem? Pariatur ad minima modi? Culpa laboriosam ullam quam corrupti error est vel, dolores natus saepe sit?' },
+    {name:'News-2', path:'img/news.jpg', description:'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Assumenda doloribus consectetur maxime voluptatum exercitationem? Pariatur ad minima modi? Culpa laboriosam ullam quam corrupti error est vel, dolores natus saepe sit?' },
+    {name:'News-3', path:'img/news.jpg', description:'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Assumenda doloribus consectetur maxime voluptatum exercitationem? Pariatur ad minima modi? Culpa laboriosam ullam quam corrupti error est vel, dolores natus saepe sit?' },
+    {name:'News-4', path:'img/news.jpg', description:'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Assumenda doloribus consectetur maxime voluptatum exercitationem? Pariatur ad minima modi? Culpa laboriosam ullam quam corrupti error est vel, dolores natus saepe sit?' },
+];
